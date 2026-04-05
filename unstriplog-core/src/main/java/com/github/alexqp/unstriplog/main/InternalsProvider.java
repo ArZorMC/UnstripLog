@@ -89,6 +89,8 @@ public class InternalsProvider {
         logOriginBlockTypeSet.add(Material.CHERRY_LOG);
         logOriginBlockTypeSet.add(Material.CHERRY_WOOD);
         logOriginBlockTypeSet.add(Material.BAMBOO_BLOCK);
+        logOriginBlockTypeSet.add(Material.PALE_OAK_LOG);
+        logOriginBlockTypeSet.add(Material.PALE_OAK_WOOD);
     }
 
     protected void createLogToolTypeSet() {
